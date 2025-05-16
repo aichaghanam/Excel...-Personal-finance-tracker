@@ -1,6 +1,4 @@
-Personal Finance Dashboard Report									
-1. Objective									
-									
+# Personal Finance Dashboard Report																
 The purpose of this dashboard is to track and better manage my personal finances over a period of five months. 
 It allows me to visualize my income and expenses, identify spending habits, and make data-driven decisions to improve my financial health.									
 									
